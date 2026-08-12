@@ -1,0 +1,9 @@
+# Do not edit manually
+
+public/** linguist-vendored 
+* text=auto
+*.yaml linguist-detectable=false
+*.sh text eol=lf
+build/* linguist-vendored
+
+src/*.astro linguist-detectable

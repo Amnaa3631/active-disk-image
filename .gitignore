@@ -1,0 +1,7 @@
+.env
+.DS_Store
+coverage/
+*.tgz
+.pnpm-store/
+yarn-error.log*
+npm-debug.log*
